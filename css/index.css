@@ -24,6 +24,7 @@ body {
     height: 80px;
     position: sticky;
     top: 0;
+    z-index: 2000;
 
 }
 
@@ -73,7 +74,6 @@ body {
     width: 180px;
     left: 0;
     color: black;
-    z-index: 1000;
     list-style: none;
     background-color: #ffffff;
     box-shadow: 1px 2px 12px rgba(0, 0, 0, 0.1),
@@ -97,6 +97,7 @@ body {
     background-color: var(--bs-primary);
     color: var(--bs-light);
     transition: all 0.5s;
+   
 }
 
 .has-in:hover .dropdown-data {
@@ -140,6 +141,7 @@ body {
     color: #000;
     transition: all 0.5s;
     padding: 0;
+    z-index: 200000;
 }
 .drop-content li
 {
