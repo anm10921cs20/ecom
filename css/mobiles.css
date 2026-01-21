@@ -1,0 +1,162 @@
+.main-container-mobiles
+{
+    background-color: #f1f2f4;
+    height: 4500px;
+    width: 100%;
+}
+.crousel-container
+{
+    width: 100%;
+    margin: auto;
+    background-color: #ffffff;
+    height: auto;
+    position: relative;
+}
+.main-container-details
+{
+    width: 85%;
+    margin: auto;
+    height: 1000px;
+}
+.first-content-mobile
+{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    font-size: 11px;
+    color: #999;
+}
+.first-content-mobile h3
+{
+    font-size: 16px;
+    color: var(--bs-dark);
+}
+.first-content-mobile a
+{
+    text-decoration: none;
+    color: var(--bs-primary);
+}
+.first-content-mobile .alsocheck
+{
+    margin-top: 8px;
+}
+.mobiles-container
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 340px;
+    width: 100%;
+}
+.samsung-smartphones
+{
+    background-color: var(--bs-light);
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1),
+        -0px -0px 2px rgba(0, 0, 0, 0.1);
+        border-radius: 2px;
+        height: 420px;
+}
+.header-content
+{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    align-items: center;
+    padding: 0 25px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+.header-content-text h4
+{
+    font-size: 17px;
+    font-weight: 600;
+    color: var(--bs-dark);
+}
+.header-content a
+{
+    text-decoration: none;
+    font-size: 13px;
+    background-color: var(--bs-primary);
+    color: var(--bs-light);
+    padding: 8px 16px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.apple-mobiles-content
+{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 300px;
+    padding: 10px;
+    position: relative;
+}
+.img-content img
+{
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+}
+.product-name
+{
+    font-size: 13px;
+    height: 20px;
+    width: 100%;
+    text-align: center;
+}
+.review-content
+{
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    padding: 3px 0;
+}
+.product-rate
+{
+    background-color: var(--bs-success);
+    font-size: 11px;
+    color: var(--bs-light);
+    padding: 2px 6px;
+    border-radius: 3px;
+    height: 20px;
+}
+.product-ratings
+{
+    color: #777;
+    font-weight: 600;
+    height: 20px;
+}
+.product-price
+{
+    text-align: center;
+}
+.heart
+{
+    position: absolute;
+    right: 0;
+}
+.heart-icon
+{
+    color: #ccc;
+    cursor: pointer;
+}
+.cart-btn
+{
+    border:transparent;
+    background-color: var(--bs-primary);
+    padding: 5px 10px;
+    color: var(--bs-light);
+    border-radius: 2px;
+}
+.cart-btn:hover
+{
+    background-color: rgba(14, 85, 156, 0.979);
+}
+.fa-shopping-cart
+{
+    color: var(--bs-light);
+}

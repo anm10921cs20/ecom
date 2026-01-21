@@ -1,7 +1,5 @@
 window.addEventListener('load', () => {
     const loaderContainer = document.querySelector('.loader');
-  
-    console.log(loaderContainer);
     
     loaderContainer.classList.add('loader-hidden')
 })

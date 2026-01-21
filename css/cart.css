@@ -1,0 +1,19 @@
+.cart-icon a
+{
+    color: var(--bs-dark);
+    text-decoration: none;
+}
+.cart-main-container
+{
+    background-color: #f1f3f6;
+    height: 1000px;
+    width: 100%;
+    display: flex;
+}
+.cart-data-container
+{
+    height: 900px;
+    width: 70%;
+    margin:50px auto;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}

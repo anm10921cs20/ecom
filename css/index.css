@@ -65,7 +65,20 @@ body {
     padding: 8px;
 
 }
-
+.categories-products-img img:hover
+{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.categories-products-img img
+{
+    transition: all 0.4s;
+}
+.categories-products a
+{
+    text-decoration: none;
+    color: var(--bs-dark);
+}
 .has-in:hover {
     outline: 1px solid rgba(0, 0, 0, 0.1);
     color: var(--bs-primary);

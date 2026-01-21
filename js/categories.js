@@ -1,35 +1,43 @@
 const categories = [
     {
         name:"Mobiles & Tablets",
-        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/5f2ee7f883cdb774.png?q=100"
+        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/5f2ee7f883cdb774.png?q=100",
+        link:"./categories/mobiles.html"
     },
     {
         name:"Fashion",
-        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/ff559cb9d803d424.png?q=100"
+        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/ff559cb9d803d424.png?q=100",
+        link:"./categories/mobiles.html"
     },
     {
         name:"Electronics",
-        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/af646c36d74c4be9.png?q=100"
+        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/af646c36d74c4be9.png?q=100",
+        link:"./categories/mobiles.html"
     },
     {
         name:"Tv & Appliances",
-        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/e90944802d996756.jpg?q=100"
+        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/e90944802d996756.jpg?q=100",
+        link:"./categories/mobiles.html"
     },
     {
         name:"Home & Furnitures",
-        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/1788f177649e6991.png?q=100"
+        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/1788f177649e6991.png?q=100",
+        link:"./categories/mobiles.html"
     },
     {
       name:"Flight Bookings",
-      img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/3c647c2e0d937dc5.png?q=100"  
+      img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/3c647c2e0d937dc5.png?q=100"  ,
+        link:"./categories/mobiles.html"
     },
     {
         name:"Beauty,Food",
-        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/b3020c99672953b9.png?q=100"
+        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/b3020c99672953b9.png?q=100",
+        link:"./categories/mobiles.html"
     },
     {
         name:"Grocery",
-        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/e730a834ad950bae.png?q=100"
+        img:"https://rukminim2.flixcart.com/fk-p-flap/64/64/image/e730a834ad950bae.png?q=100",
+        link:"./categories/mobiles.html"
     }
 ];
 
@@ -44,13 +52,13 @@ function categoriesadd(category){
    const categoriesDiv = document.createElement('div');
    categoriesDiv.className = 'categories-products';
    categoriesDiv.innerHTML = `
-                        <div class="categories-products-img">
+                        <a href="${category.link}"<div class="categories-products-img">
                             <img src="${category.img}"
                                 alt="${category.name}">
                         </div>
                         <div class="categories-products-name">
                             <h5>${category.name}</h5>
-                        </div>   
+                        </div></a>   
    `;
 
 //    categories container append
