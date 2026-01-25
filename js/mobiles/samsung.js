@@ -2,7 +2,7 @@ const samsungProducts = [
     {
         name: "Samsung Galaxy F05",
         spec: "Twilight Blue, 64 GB",
-        price: "6,499",
+        price: "6499",
         rate: "4.2",
         reviews: "77,532",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/r/f/-original-imah56hkgehywn5b.jpeg?q=70"
@@ -10,7 +10,7 @@ const samsungProducts = [
     {
         name: "Samsung Galaxy M35 5G",
         spec: "Awesome Iceblue, 128 GB",
-        price: "18,999",
+        price: "18999",
         rate: "4.4",
         reviews: "2,01,542",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/j/d/-original-imahgy25zuwqzzye.jpeg?q=70"
@@ -18,7 +18,7 @@ const samsungProducts = [
     {
         name: "Samsung Galaxy M05",
         spec: "Mint Green, 64 GB",
-        price: "8,290",
+        price: "8290",
         rate: "4.3",
         reviews: "3,425",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/2/v/m05-sm-m055f-samsung-original-imah4z9v2qp2tpgw.jpeg?q=70"
@@ -26,7 +26,7 @@ const samsungProducts = [
     {
         name: "Samsung Galaxy S24 5G",
         spec: "Onyx Black, 128 GB",
-        price: "40,900",
+        price: "40900",
         rate: "4.6",
         reviews: "50,425",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/8/1/-original-imahfz2tenzpsd3p.jpeg?q=70"
@@ -35,7 +35,7 @@ const samsungProducts = [
     {
         name: "Samsung Galaxy F06 5G",
         spec: "Lite Violet, 64 GB",
-        price: "8,999",
+        price: "8999",
         rate: "4.2",
         reviews: "38,425",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/i/q/r/-original-imahfvrmzd46wgw5.jpeg?q=70"
@@ -43,7 +43,7 @@ const samsungProducts = [
     {
         name: "Samsung Galaxy S24 5G",
         spec: "Onyx Black, 256 GB",
-        price: "45,900",
+        price: "45900",
         rate: "4.6",
         reviews: "2,01,542",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/8/1/-original-imahfz2tenzpsd3p.jpeg?q=70"

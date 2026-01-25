@@ -2,7 +2,7 @@ const realmeProducts = [
     {
         name: "Realme P3 Lite 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/2/u/v/-original-imahjhas8jcvacxu.jpeg?q=70"
@@ -10,7 +10,7 @@ const realmeProducts = [
     {
         name: "Realme P4 5G",
         spec: "Midnight Black, 256 GB",
-        price: "34,999",
+        price: "34999",
         rate: "4.6",
         reviews: "87,654",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/2/m/d/-original-imahf47f6fgxwh9a.jpeg?q=70"
@@ -18,7 +18,7 @@ const realmeProducts = [
     {
         name: "Realme C71",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/f/j/-original-imahdz2gdtkwhz9g.jpeg?q=70"
@@ -26,7 +26,7 @@ const realmeProducts = [
     {
         name: "Realme C61",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/v/z/-original-imah28xpzzwz4fwg.jpeg?q=70"
@@ -34,7 +34,7 @@ const realmeProducts = [
     {
         name: "Realme P3 Lite 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/o/v/-original-imahfsgvr6fvsczs.jpeg?q=70"
@@ -42,7 +42,7 @@ const realmeProducts = [
     {
         name: "Realme P4 x 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/9/n/-original-imahgdr4shzrvcfh.jpeg?q=70"

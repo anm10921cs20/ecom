@@ -2,7 +2,7 @@ const motoProducts = [
     {
         name: "Moto G57",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/u/l/-original-imahhqjwyzsjyfvn.jpeg?q=70"
@@ -10,7 +10,7 @@ const motoProducts = [
     {
         name: "Moto Edge 60 Fushion 5G",
         spec: "Midnight Black, 256 GB",
-        price: "34,999",
+        price: "34999",
         rate: "4.6",
         reviews: "87,654",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/7/t/-original-imahgqnz4hjyk6fh.jpeg?q=70"
@@ -18,7 +18,7 @@ const motoProducts = [
     {
         name: "Moto G05 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/j/b/-original-imah83ezvx8m7hs6.jpeg?q=70"
@@ -26,7 +26,7 @@ const motoProducts = [
     {
         name: "Moto G67 Power 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/y/y/-original-imahhjhfu7jed8kt.jpeg?q=70"
@@ -34,7 +34,7 @@ const motoProducts = [
     {
         name: "Moto Edge 60 Fusion 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/e/i/-original-imahgqnzuy2fzusz.jpeg?q=70"
@@ -42,7 +42,7 @@ const motoProducts = [
     {
         name: "Moto G06 Power",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/k/4/-original-imahgctgwut6fewm.jpeg?q=70"

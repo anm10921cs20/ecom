@@ -2,7 +2,7 @@ const oppoProducts = [
     {
         name: "Oppo K13x 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/q/k/-original-imahfw4vamrf5xhf.jpeg?q=70"
@@ -10,7 +10,7 @@ const oppoProducts = [
     {
         name: "Oppo K13 Pro 5G",
         spec: "Midnight Black, 256 GB",
-        price: "34,999",
+        price: "34999",
         rate: "4.6",
         reviews: "87,654",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/a/9/-original-imahfw4vxaqmcsjp.jpeg?q=70"
@@ -18,7 +18,7 @@ const oppoProducts = [
     {
         name: "Oppo k13x 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/q/k/-original-imahfw4vamrf5xhf.jpeg?q=70"
@@ -26,7 +26,7 @@ const oppoProducts = [
     {
         name: "Oppo K13x Pro 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/o/f/-original-imahesgmnyzggzwd.jpeg?q=70"
@@ -34,7 +34,7 @@ const oppoProducts = [
     {
         name: "Oppo K13x 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/q/k/-original-imahfw4vamrf5xhf.jpeg?q=70"
@@ -42,7 +42,7 @@ const oppoProducts = [
     {
         name: "Oppo F29 Pro 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/b/m/-original-imahafrezggqq5em.jpeg?q=70"

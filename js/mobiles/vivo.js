@@ -2,7 +2,7 @@ const vivoProducts = [
     {
         name: "Vivo T4 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/k/r/-original-imahfhudssrdghcz.jpeg?q=70"
@@ -10,7 +10,7 @@ const vivoProducts = [
     {
         name: "Vivo Y19e",
         spec: "Midnight Black, 256 GB",
-        price: "34,999",
+        price: "34999",
         rate: "4.6",
         reviews: "87,654",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/t/x/-original-imahbgpzbumfzkbh.jpeg?q=70"
@@ -18,7 +18,7 @@ const vivoProducts = [
     {
         name: "Vivo T4 Lite 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/9/t/-original-imahfkvfhpfaftmb.jpeg?q=70"
@@ -26,7 +26,7 @@ const vivoProducts = [
     {
         name: "Vivo T4 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/7/q/-original-imahaeeb5be43z2h.jpeg?q=70"
@@ -34,7 +34,7 @@ const vivoProducts = [
     {
         name: "Vivo T4x 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/9/t/-original-imahfkvfhpfaftmb.jpeg?q=70"
@@ -42,7 +42,7 @@ const vivoProducts = [
     {
         name: "Vivo T4 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/f/0/-original-imahbgqyz5sqhwq9.jpeg?q=70"

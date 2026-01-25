@@ -2,7 +2,7 @@ const appleProducts = [
     {
         name: "Apple iPhone 17",
         spec: "Black, 256 GB",
-        price: "82,900",
+        price: "82900",
         rate: "4.7",
         reviews: "3,425",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/s/t/g/-original-imahft5gqkxzyeqa.jpeg?q=70"
@@ -10,7 +10,7 @@ const appleProducts = [
     {
         name: "Apple iPhone 16",
         spec: "Black, 128 GB",
-        price: "69,900",
+        price: "69900",
         rate: "4.6",
         reviews: "2,01,542",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/q/h/-original-imahgfmzjj8gtqbc.jpeg?q=70"
@@ -18,7 +18,7 @@ const appleProducts = [
     {
         name: "Apple iPhone 17",
         spec: "Lavender, 256 GB",
-        price: "82,900",
+        price: "82900",
         rate: "4.7",
         reviews: "3,425",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/7/f/-original-imahft5gfgwpt6pr.jpeg?q=70"
@@ -26,7 +26,7 @@ const appleProducts = [
     {
         name: "Apple iPhone 17",
         spec: "White, 256 GB",
-        price: "82,900",
+        price: "82900",
         rate: "4.7",
         reviews: "3,425",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/e/5/-original-imahft5g9uthykuh.jpeg?q=70"
@@ -35,7 +35,7 @@ const appleProducts = [
     {
         name: "Apple iPhone 17",
         spec: "Mist, 256 GB",
-        price: "82,900",
+        price: "82900",
         rate: "4.7",
         reviews: "3,425",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/x/y/-original-imahft5gkyd8wcqc.jpeg?q=70"
@@ -43,7 +43,7 @@ const appleProducts = [
     {
         name: "Apple iPhone 16",
         spec: "Teal, 256 GB",
-        price: "79,900",
+        price: "79900",
         rate: "4.6",
         reviews: "2,01,542",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/l/2/-original-imahgfmzvanpgncf.jpeg?q=70"

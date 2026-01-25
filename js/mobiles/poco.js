@@ -2,7 +2,7 @@ const pocoProducts = [
     {
         name: "Poco G75 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/v/f/-original-imahbr2cmpwexghw.jpeg?q=70"
@@ -10,7 +10,7 @@ const pocoProducts = [
     {
         name: "Poco C71",
         spec: "Midnight Blue, 256 GB",
-        price: "34,999",
+        price: "34999",
         rate: "4.6",
         reviews: "87,654",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/5/z/-original-imahawgarmg5f8ff.jpeg?q=70"
@@ -18,7 +18,7 @@ const pocoProducts = [
     {
         name: "Poco C71",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/7/z/w/-original-imahawgahmkbjxyj.jpeg?q=70"
@@ -26,7 +26,7 @@ const pocoProducts = [
     {
         name: "Poco C75 5G",
         spec: "Midnight Silver, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/2/g/-original-imahbr2cz5apcwze.jpeg?q=70"
@@ -34,7 +34,7 @@ const pocoProducts = [
     {
         name: "Poco C75 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/i/b/b/-original-imahbr2czzcrgfx7.jpeg?q=70"
@@ -42,7 +42,7 @@ const pocoProducts = [
     {
         name: "Poco C71",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/l/a/-original-imahg2ny5htzbrjb.jpeg?q=70"

@@ -2,7 +2,7 @@ const readmiProducts = [
     {
         name: "Redmi A5",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/t/t/-original-imahfvkvb5xrpgr3.jpeg?q=70"
@@ -10,7 +10,7 @@ const readmiProducts = [
     {
         name: "Redmi A5 Lite",
         spec: "Midnight Black, 256 GB",
-        price: "34,999",
+        price: "34999",
         rate: "4.6",
         reviews: "87,654",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/g/o/-original-imahb56zdk5ybj9r.jpeg?q=70"
@@ -18,7 +18,7 @@ const readmiProducts = [
     {
         name: "Redmi Note 14 SE 5G",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/t/l/-original-imahg2z9zy2ea2py.jpeg?q=70"
@@ -26,7 +26,7 @@ const readmiProducts = [
     {
         name: "Redmi A4",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/h/f/a4-5g-a4-5g-redmi-original-imah6yhdg9kpnzgd.jpeg?q=70"
@@ -34,7 +34,7 @@ const readmiProducts = [
     {
         name: "Redmi A5",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/4/r/-original-imahb56zdgszp7tg.jpeg?q=70"
@@ -42,7 +42,7 @@ const readmiProducts = [
     {
         name: "Redmi A5s",
         spec: "Midnight Black, 128 GB",
-        price: "24,999",
+        price: "24999",
         rate: "4.5",
         reviews: "1,23,456",
         img: "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/4/v/z/-original-imahfvkvg6zmu5mj.jpeg?q=70"

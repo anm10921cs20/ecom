@@ -30,7 +30,7 @@ if (cartProductItems) {
                                 <p class="product-spec">${cartitems.spec}</p>
                                 <div class="cart-product-price">
                                     <p class="product-discount-price">${cartitems.price}</p>
-                                    <p class="product-secondary-price">Rs.22000</p>
+                                    <p class="product-secondary-price"></p>
                                 </div>
                                 <div class="cart-qty">
                                     <button class="fas fa-minus"></button>                                    
@@ -94,6 +94,7 @@ if (cartProductItems) {
          qtyPlus[idx].addEventListener('click', () => {
             var qtyvalue = parseInt(qty.value);
             qty.value = qtyvalue + 1;
+            total()
             })
 
             qtyMinus[idx].addEventListener('click', () => {
@@ -101,6 +102,7 @@ if (cartProductItems) {
                 if(qtyvalue > 1)
                 {
                     qty.value = qtyvalue - 1;
+                    total()
                 }
             })
            
@@ -108,7 +110,24 @@ if (cartProductItems) {
 
     function total()
     {
+        var PriceElement = document.querySelectorAll('.product-discount-price');
+        const priceAddElement = document.getElementsByClassName('product-secondary-price');
+        const productQty = document.getElementsByClassName('product-qty');
+        var productadd = 0;
+       PriceElement.forEach((price, idx) => {
+       priceAddElement[idx].textContent = price.innerHTML;
+       const priceValue =parseInt(price.innerHTML.slice(1));
+       
+       const productValue = parseInt(productQty[idx].value);
+       PriceElement = priceValue * productValue;
+       priceAddElement[idx].textContent = "₹" + PriceElement; 
+       
+
+
         
+       })
+        
+
     }
     total()
 
@@ -160,13 +179,17 @@ if (cartProductItems) {
 
 }
 else {
-    const emptyContainer = document.createElement('div');
-    emptyContainer.className = "empty-container";
+    
     var emptyImg = 'https://rukminim2.flixcart.com/www/800/800/promos/16/05/2019/d438a32e-765a-4d8b-b4a6-520b560971e8.png?q=90';
     var emptyText = 'Your Cart Is Empty';
     var emptySmallText = 'Explore Our Wide Selection and Find Something You Like'
-    emptyContainer.innerHTML = `
-   <div class="empty-content">
+    const cartContainerMain = document.getElementsByClassName('main-cart-content')[0];
+    cartContainerMain.style.display = "flex";
+    cartContainerMain.style.justifyContent = "center";
+    cartContainerMain.style.alignItems = "center";
+    cartContainerMain.style.backgroundColor = "#fff";
+    cartContainerMain.style.height = "100%"
+    cartContainerMain.innerHTML =   ` <div class="empty-content">
    <div class="empty-img">
    <img src="${emptyImg}" alt="empty-img" class="img-empty">
    </div>
@@ -174,9 +197,6 @@ else {
    <h5>${emptyText}</h5>
    <h6>${emptySmallText}</h6>
    </div>
-   </div>
-   `;
-    const cartContainerMain = document.getElementsByClassName('cart-data-container')[0];
-    cartContainerMain.appendChild(emptyContainer);
+   </div>`;
 
 }
