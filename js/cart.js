@@ -50,6 +50,8 @@ function addToCart(event)
 
 
 
+const itemsCart = JSON.parse(localStorage.getItem('cartitems')) || [];
+console.log(itemsCart);
 
 
 
@@ -58,12 +60,16 @@ function addToCart(event)
 
 
 
-
+const cartProductItems = JSON.parse(localStorage.getItem('cartitems'));
+const cartCount = document.getElementsByClassName('cart-count')[0];
+cartCount.textContent = cartProductItems.length;
 
 
 
 
 })
+
+
 
 
 
